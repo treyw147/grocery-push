@@ -1,0 +1,8 @@
+{
+  "name": "wfgp-push-sender",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "^12.0.0",
+    "web-push": "^3.6.6"
+  }
+}
